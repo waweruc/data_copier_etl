@@ -16,5 +16,5 @@ connection_details = {
                 'user': os.environ.get('CUSTOMER_DB_USER'),
                 'password': os.environ.get('CUSTOMER_DB_PASS')
                 }
-            } 
+             } 
             }
